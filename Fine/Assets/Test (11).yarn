@@ -1,0 +1,62 @@
+title: Test.Start
+tags: 
+colorID: 0
+position: 627,-236
+---
+<<set $Pissiness to 0>>
+<<show Talker>>
+Conor: How this work? #line:0b4d3aa
+
+->Quick Option 1 #line:09dc9da
+    Conor: Huh, Neat #line:0f3821f
+    <<set $Pissiness to $Pissiness+1>>
+->Quick Option 2 #line:0d48fab
+    Conor: Gucci #line:00d39cd
+    <<set $Pissiness to $Pissiness-1>>
+Conor: What about other options? #line:0e04aed
+
+[[Try this one|Node1]] #line:0ac0da9
+[[Or this one|Node2]] #line:00a1f51
+===
+title: Node1
+tags: 
+colorID: 0
+position: 948,136
+---
+Conor: Ha cool #line:0427bce
+<<hide Talker>>
+<<show Talkee>>
+Computor: Thanks #line:04ce2c7
+<<set $Pissiness to $Pissiness+1>>
+[[Final]]
+===
+title: Node2
+tags: 
+colorID: 0
+position: 317,109
+---
+Conor: ... #line:084c64b
+<<hide Talker>>
+<<show Talkee>>
+Computor: See ya #line:031f6eb
+<<set $Pissiness to $Pissiness-1>>
+[[Final]]
+===
+title: Final
+tags: 
+colorID: 0
+position: 626,455
+---
+<<hide Talkee>>
+<<show Talker>>
+
+<<if $Pissiness is 0>>
+Conor: That was OK #line:0928290
+<<endif>>
+<<if $Pissiness is 2>>
+Conor: That was great #line:0e8a8a9
+<<endif>>
+<<if $Pissiness is -2>>
+Conor: That Sucked #line:0896c6f
+<<endif>>
+===

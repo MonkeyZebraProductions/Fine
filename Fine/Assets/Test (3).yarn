@@ -1,0 +1,30 @@
+title: Test.Start
+tags: 
+colorID: 0
+position: 607,-70
+---
+Conor: How this work? #line:0b0f48c
+-> Quick Option 1 #line:033f21b
+    Conor: Huh, Neat #line:0c6b9d1
+-> Quick Option 2 #line:012f5df
+    Conor: Gucci #line:007ae76
+Conor: What about other options? #line:02e1c8c
+[[Try this one|Node1]] #line:005879a
+[[Or this one|Node2]] #line:09b94ab
+===
+title: Node1
+tags: 
+colorID: 0
+position: 302,124
+---
+Conor: Ha cool #line:0727028
+Computor: Thanks #line:0451fed
+===
+title: Node2
+tags: 
+colorID: 0
+position: 926,139
+---
+Conor: ... #line:040f560
+Computor: See ya #line:0af58e4
+===

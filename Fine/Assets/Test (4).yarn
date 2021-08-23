@@ -1,0 +1,33 @@
+title: Test.Start
+tags: 
+colorID: 0
+position: 605,-70
+---
+Conor: How this work?
+
+->Quick Option 1
+    Conor: Huh, Neat
+->Quick Option 2
+    Conor: Gucci
+
+Conor: What about other options?
+
+[[Try this one|Node1]]
+[[Or this one|Node2]]
+===
+title: Node1
+tags: 
+colorID: 0
+position: 302,124
+---
+Conor: Ha cool
+Computor: Thanks
+===
+title: Node2
+tags: 
+colorID: 0
+position: 926,139
+---
+Conor: ...
+Computor: See ya
+===
