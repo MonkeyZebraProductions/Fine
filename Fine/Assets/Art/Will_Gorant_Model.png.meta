@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 6b196e79b3671f64dbb0c6627969d689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8166588265938503033
+    second: Will_Gorant_Full_Body
+  - first:
+      213: 4361008641319649050
+    second: Will_Gorant_Left_Pupil
+  - first:
+      213: 567713688885842912
+    second: Will_Gorant_Right_Pupil
+  - first:
+      213: 6076107361948915484
+    second: Will_Gorant_Left_Eye
+  - first:
+      213: 759655949861546822
+    second: Will_Gorant_Right_Eye
+  - first:
+      213: -1991359441899188438
+    second: Will_Gorant_Mouth
+  - first:
+      213: 8636575350960329882
+    second: Will_Gorant_Right_Arm_Upper
+  - first:
+      213: 5433403596535108454
+    second: Will_Gorant_Left_Arm_Upper
+  - first:
+      213: 8931297341003391417
+    second: Will_Gorant_Head
+  - first:
+      213: 7150151977136553613
+    second: Will_Gorant_Neck
+  - first:
+      213: -8810312044841064861
+    second: Will_Gorant_Right_Arm_Lower
+  - first:
+      213: -7711612446509444135
+    second: Will_Gorant_Left_Arm_Lower
+  - first:
+      213: 8086431029066220548
+    second: Will_Gorant_Left_Leg_Lower
+  - first:
+      213: -8329908352478243627
+    second: Will_Gorant_Torso
+  - first:
+      213: 2538102414624508816
+    second: Will_Gorant_Left_Leg_Upper
+  - first:
+      213: 6026669144052671194
+    second: Will_Gorant_Right_Leg_Upper
+  - first:
+      213: 9049220040943300754
+    second: Will_Gorant_Left_Foot
+  - first:
+      213: -6337835913495350521
+    second: Will_Gorant_Right_Foot
+  - first:
+      213: -6712734602138006406
+    second: Will_Gorant_Left_Leg_Lowe
+  - first:
+      213: 5658649471191066200
+    second: Will_Gorant_Left_Hand
+  - first:
+      213: -2569198796226993977
+    second: Will_Gorant_Right_Hand
+  - first:
+      213: 8400600767457835903
+    second: Will_Gorant_Body
+  - first:
+      213: 8451196167369714255
+    second: Will_Gorant_Hair_1
+  - first:
+      213: -6707522649284248180
+    second: Will_Gorant_Hair_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Will_Gorant_Full_Body
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 38
+        width: 536
+        height: 1987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975432a62cc855170800000000000000
+      internalID: 8166588265938503033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Pupil
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1696
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3440f04a658c30800000000000000
+      internalID: 4361008641319649050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Pupil
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1697
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3da28979ce0e700800000000000000
+      internalID: 567713688885842912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Eye
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1623
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d91ef37ba25450800000000000000
+      internalID: 6076107361948915484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Eye
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1623
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6203cf07da8a00800000000000000
+      internalID: 759655949861546822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Mouth
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1543
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8a7563254d54e0800000000000000
+      internalID: -1991359441899188438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Arm_Upper
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1120
+        width: 176
+        height: 384
+      alignment: 9
+      pivot: {x: 0.19471811, y: 0.93530816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9492ede5874bd770800000000000000
+      internalID: 8636575350960329882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Arm_Upper
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1115
+        width: 172
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7776709, y: 0.9092506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631ecc98c3576b40800000000000000
+      internalID: 5433403596535108454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Head
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1524
+        width: 199
+        height: 261
+      alignment: 9
+      pivot: {x: 0.44085172, y: 0.103996426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e5e19c9752fb70800000000000000
+      internalID: 8931297341003391417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Neck
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 768
+        width: 127
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.113350116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef74f07517a3360800000000000000
+      internalID: 7150151977136553613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Arm_Lower
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 768
+        width: 94
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36627eecfdb7bb580800000000000000
+      internalID: -8810312044841064861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Arm_Lower
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 764
+        width: 93
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d2587659daf490800000000000000
+      internalID: -7711612446509444135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 192
+        width: 155
+        height: 525
+      alignment: 9
+      pivot: {x: 0.4498677, y: 0.963062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404403c5d26c83070800000000000000
+      internalID: 8086431029066220548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Torso
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 22
+        width: 357
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d499f6bc78366c80800000000000000
+      internalID: -8329908352478243627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 212
+        width: 172
+        height: 444
+      alignment: 9
+      pivot: {x: 0.52100176, y: 0.9420585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b414bd2b6293320800000000000000
+      internalID: 2538102414624508816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 205
+        width: 180
+        height: 460
+      alignment: 9
+      pivot: {x: 0.44648302, y: 0.9580947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22116e7a703a350800000000000000
+      internalID: 6026669144052671194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Foot
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 32
+        width: 185
+        height: 184
+      alignment: 9
+      pivot: {x: 0.70177364, y: 0.7225032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29075c2bea9459d70800000000000000
+      internalID: 9049220040943300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Foot
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 26
+        width: 159
+        height: 191
+      alignment: 9
+      pivot: {x: 0.3712565, y: 0.7269574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037563e0db7b08a0800000000000000
+      internalID: -6337835913495350521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Leg_Lowe
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 186
+        width: 159
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c4718e17397d2a0800000000000000
+      internalID: -6712734602138006406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Left_Hand
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 676
+        width: 88
+        height: 152
+      alignment: 9
+      pivot: {x: 0.44526672, y: 0.8960969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856abc696bf878e40800000000000000
+      internalID: 5658649471191066200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Right_Hand
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 674
+        width: 90
+        height: 171
+      alignment: 9
+      pivot: {x: 0.6337931, y: 0.77462715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c067899e4f585cd0800000000000000
+      internalID: -2569198796226993977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Body
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 863
+        width: 380
+        height: 645
+      alignment: 9
+      pivot: {x: 0.4863021, y: 0.08035567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb234c3ede49470800000000000000
+      internalID: 8400600767457835903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Hair_1
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1515
+        width: 345
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae63b432ea84570800000000000000
+      internalID: 8451196167369714255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will_Gorant_Hair_2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1836
+        width: 294
+        height: 206
+      alignment: 9
+      pivot: {x: 0.7019246, y: 0.6974588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d768e30b71ae2a0800000000000000
+      internalID: -6707522649284248180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef5dfc9290774114bba20cf043b57328
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -42,7 +42,7 @@ namespace Yarn.Unity.Example {
         public SpriteInfo[] sprites;
 
         /// Create a command to use on a sprite
-        [YarnCommand("setsprite")]
+        [YarnCommand("Emote")]
         public void UseSprite(string spriteName) {
 
             Sprite s = null;

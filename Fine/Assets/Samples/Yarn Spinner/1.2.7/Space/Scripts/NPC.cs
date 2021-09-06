@@ -45,6 +45,11 @@ namespace Yarn.Unity.Example {
                 dialogueRunner.Add(scriptToLoad);                
             }
         }
+
+        public void StartDialogue()
+        {
+            FindObjectOfType<DialogueRunner>().StartDialogue(talkToNode);
+        }
     }
 
 }

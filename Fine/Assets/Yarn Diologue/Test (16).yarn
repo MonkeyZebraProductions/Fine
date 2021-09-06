@@ -1,0 +1,70 @@
+title: Test.Start
+tags: 
+colorID: 0
+position: 624,-239
+---
+<<set $Pissiness to 0>>
+<<show Talker Conor>>
+<<Emote Talker Happy>>
+How this work? #line:09fc65a
+
+->Quick Option 1 #line:0d1a578
+    Huh, Neat #line:0d54e6a
+    <<set $Pissiness to $Pissiness+1>>
+->Quick Option 2 #line:03fa73b
+    Gucci #line:0e726ed
+    <<set $Pissiness to $Pissiness-1>>
+<<Emote Talker Sad>>
+What about other options? #line:091ddb6
+
+[[Try this one|Node1]] #line:006acd8
+[[Or this one|Node2]] #line:0335317
+===
+title: Node1
+tags: 
+colorID: 0
+position: 948,136
+---
+Ha cool #line:0cf2481
+<<hide Talker>>
+<<show Talkee Computor>>
+
+Thanks #line:04bf46e
+<<set $Pissiness to $Pissiness+1>>
+[[Final]]
+===
+title: Node2
+tags: 
+colorID: 0
+position: 317,109
+---
+... #line:03c00f7
+<<hide Talker>>
+<<show Talkee Computor>>
+
+See ya #line:01ad8a8
+<<set $Pissiness to $Pissiness-1>>
+[[Final]]
+===
+title: Final
+tags: 
+colorID: 0
+position: 628,455
+---
+<<hide Talkee>>
+<<show Talker Conor>>
+
+
+<<if $Pissiness is 0>>
+<<Emote Talker Happy>>
+That was OK #line:00df554
+<<endif>>
+<<if $Pissiness is 2>>
+<<Emote Talker Happy>>
+That was great #line:0b12a11
+<<endif>>
+<<if $Pissiness is -2>>
+<<Emote Talker 1>>
+That Sucked #line:0ed8b22
+<<endif>>
+===
