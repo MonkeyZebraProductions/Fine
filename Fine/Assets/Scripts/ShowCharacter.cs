@@ -36,7 +36,7 @@ public class ShowCharacter : MonoBehaviour
     }
 
     [YarnCommand("hide")]
-    public void Hide()
+    public void Hide(string Name)
     {
         portrait.enabled = false;
     }

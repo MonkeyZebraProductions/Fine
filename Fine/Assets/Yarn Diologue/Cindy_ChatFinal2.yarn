@@ -1,0 +1,345 @@
+title: CindyTalk1
+tags: 
+colorID: 0
+position: 622,-477
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+My fingers are all damp already, I'm surprised that my fingernails haven't fallen off yet. Although that's awful, no, I don't wanna think about that. I just want out. #line:082e31b
+-> Don't worry, our shift is over soon! #line:0a8dac9
+    <<Set $Pissiness to $Pissiness+1>>
+    Ugh, I know... I just wish it happened now. The last five minutes feel like an hour, I'm just... like, itching to drop at The Auditorium. #line:0634587
+    Today Kirbo and I are trying out a new tune. You know, usual Thursday tradition. #line:048e5c1
+    <<show Talker Will>>
+    <<hide Talkee Cindy>> 
+    What tune? #line:092d66a
+    <<show Talkee Cindy>>
+    <<hide Talker Will>> 
+    He found this song and printed out-- i mean wrote the notes down from the pages in the library on another page and will pass me the notes tomorrow #line:0d57b5a
+    <<show Talkee Cindy>>
+    <<hide Talker Will>> 
+    It's a rock song surprisingly #line:0365edb
+    <<show Talker Will>>
+    <<hide Talkee Cindy>>
+    So, country? #line:0c8dcd3
+    <<show Talkee Cindy>>
+    <<hide Talker Will>> 
+    I... no, Rock and Roll, not... I lost my train of thought now #line:0ec0679
+-> Why not look at the bright side? #line:0cb92eb
+    <<set $Pissiness to $Pissiness-1>>
+    What do you mean by "look at the bright side"? It's a crap job with a crap pay and there is probably a rat in my bag right now. #line:00e5d5e
+    <<show Talker Will>>
+    <<hide Talkee Cindy>>
+    A rat? You mean Jeffrey's... #line:003eb27
+    <<show Talkee Cindy>>
+    <<hide Talker Will>> 
+    I... still can't believe you took in a rat from the kitchen. #line:0856990
+    <<show Talker Will>>
+    <<hide Talkee Cindy>> 
+    He needed a home! #line:05fb6ed
+    <<show Talkee Cindy>>
+    <<hide Talker Will>> 
+    Did you ever consider you took it from it's family? #line:0393554
+    <<show Talker Will>>
+    <<hide Talkee Cindy>> 
+    Oh... #line:0ce35fb
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+Hol up! Not done rambling. Our job, right? It's a dump. The pay is, I swear, illegal and less than minimum wage. #line:0b75e4b
+-> It's not THAT bad, we're still getting paid! #line:0a6b449
+     At this point I'd earn more from no-job benefit or whatever it's called. Just that gaps in employment make you "unemployable" afterwards. #line:0fef99a
+-> If we keep working hard, we will definitely get a raise #line:0d033a4
+     That's just wishful thinking. It ain't gonna happen, I haven't seen them carry half-spoiled tomatoes I think ever, I bet they don't have a way to pay us more #line:0c7e4fa
+But even ignoring the pay. It's just the job itself. All the chefs in here are drugged up arseholes that I can't talk for longer than a minute with. And then the dirty plates, you know the ones I'm referring to. I just want to be out there and play my music and not care about some stupid job. #line:027e45a
+[[This job isn't as bad as you see it|CindyTalk2Opt1]] #line:00ff5b3
+[[What do you mean? That's what makes the job great!|CindyTalk2Opt2]] #line:02ee67e
+[[Maybe you're right...!|CindyTalk2Opt3]] #line:06c9f17
+===
+title: CindyTalk2Opt1
+tags: 
+colorID: 0
+position: 413,-146
+---
+<<set $Pissiness to $Pissiness>>
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+What about the good parts of the job? There are lots of new and familiar faces that come in, the smell of the Vada Abordo Lasagna is life saving and each dirty dish tells a life story. #line:0399ea3
+Such as this plate. Why did this customer decide to leave a half eaten burger, tear soaked chips, and a divorce paper on top of the ketchup? We can only speculate. #line:0d7a756
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+Will, buddy... you can't be serious. #line:02cc4d3
+[[I will always be interested in all the lives around us.|CindyTalk3]] #line:082515c
+[[There is a reason why I keep those things, they're cool!|CindyTalk3]] #line:0c3ecee
+===
+title: CindyTalk2Opt2
+tags: 
+colorID: 0
+position: 847,-135
+---
+<<set $Pissiness to $Pissiness+1>>
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+The cooks still do something they're passionate about, and we're helping them! It's a fast job and they simply pass by too quickly to understand them. We're a part of other's story, and it's a great feeling. #line:0e1af45
+Will: You sometimes see couples entering together and leaving alone, or groups of friends coming as a party and leaving happy in tears! It's it great, how our efforts affect their lives? #line:0e5cd3c
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+Will... those are called breakups. #line:0e28c0a
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+Yeah, when they go home! #line:0e00d55
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Will, buddy... I won't be bursting that bubble for you today. #line:0198d9f
+[[Bubble? Oh, I need more soap|CindyTalk3]] #line:0e0076b
+[[But I get emotional with friends like that too!|CindyTalk3]] #line:0e2d2af
+===
+title: CindyTalk2Opt3
+tags: 
+colorID: 0
+position: 631,-142
+---
+<<set $Pissiness to $Pissiness-1>>
+ Yeah, even the great beacon of positivity Will knows that. #line:0695f18
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+But... despite it's flaws, I wouldn't trade this job for any other. I wouldn't leave this cooking family. #line:00c6a80
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+We're just the adopted kids before they find better kids. #line:0c21a66
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+And I am happy to be a kid in the "drugged up arseholes" family! #line:0a6dd2b
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+Will, buddy... no. #line:0685104
+[[Wouldn't that mean we're working in a pharmacy?|CindyTalk3]] #line:0710513
+[[Finally, my whole family together again|CindyTalk3]] #line:0c32c7a
+===
+title: CindyTalk3
+tags: 
+colorID: 0
+position: 632,112
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+In any case, the job still doesn't let me cover for all my rent AND music needs. I can't wait for the paycheck today, the landlord's been bugging me for days now to pay him. #line:04384c8
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+I believe he only wants to make sure everything's fine. #line:0494ed6
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+He makes sure he can extort me. #line:0829c68
+-> Not all landlords are this way #line:0edce9d
+-> He'd never do that! #line:090bf8c
+Will, because YOUR landlord is nice it doesn't mean mine is. He makes me pay over half of my wage for a single room. I can't find a roommate either. #line:0188ef8
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+But you're a lovely person, why? #line:0c1953b
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+Mold, apartment's moldy. #line:09de454
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+Mold isn't that big of a hurdle, it's just one thing that's not as good. #line:094e952
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+...You'd be surprised how many people run away when they see it. Somehow though, this guy owns every second apartment and is able to keep doing that! I guess I got the short end of the stick... #line:0189162
+[[You could always ask|CindyTalk4Opt1]] #line:0ec95ab
+[[Despite these bad things, at least you have a home|CindyTalk4Opt2]] #line:05afec1
+[[Mold's great! I even grew a garden with it|CindyTalk4Opt4]] #line:098e515
+===
+title: CindyTalk4Opt1
+tags: 
+colorID: 0
+position: 400,311
+---
+<<set $Pissiness to $Pissiness>>
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+It's not how life really works Will. #line:09cac6c
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+But that's what I do and it helps! I invited my landlord once for tea and in the end he left happy with a better rent offer. #line:0f6a670
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+I... am worried that you kept him in a hostage situation. No landlord would ever do that. #line:00f471e
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+I'd never! We just drink tea, talk, and at the end of the day he excuses himself and left two hundred at the table. #line:0bb2f13
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+...It was a hostage situation. #line:0a8b686
+In any way, I don't think he even knows my name, so I'm out of luck. #line:0b40d7e
+[[And on that note, it's 6PM now|CindyTalk5]] #line:004efe4
+===
+title: CindyTalk4Opt2
+tags: 
+colorID: 0
+position: 847,309
+---
+<<set $Pissiness to $Pissiness-1>>
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+What does that mean? Will, even IF I "at least have a home" it doesn't exclude the fact I want to have a life too. #line:00a5733
+If it was a better home, I'd have meet ups there with Kirbo and not at the bar. If I had more money left over, I'd turn the apartment into a home. #line:0289021
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+Money doesn't buy happiness, but it can buy comfort. Like here. #line:0215f1c
+But having an apartment, even a less than beautiful one, means you have a place to stay, a corner just for you. #line:0a55c3a
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Cindy: At this point, a car would be my own place to stay if the rent goes up by another hundred. #line:046294e
+[[And on that note, it's 6PM now|CindyTalk5]] #line:0592de8
+===
+title: CindyTalk5
+tags: 
+colorID: 0
+position: 626,579
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Huh? Well, time to drop the dishes! #line:0eb634c
+<<if $Pissiness > 0>>
+    [[Let's go home together!|CindyTalkGoodOutcome]] #line:04dff33
+<<else>>
+    [[Time to have a nice evening!|CindyTalkBadOutcome]] #line:09a49c8
+<<endif>>
+===
+title: CindyTalkGoodOutcome
+tags: 
+colorID: 0
+position: 522,844
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Let's go. Hey, even if the job sucks for me, and the landlord is bad, at least you are fun to chat to. #line:00e193e
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+That's really sweet! Do you want a friendship hug? #line:0581c6f
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+No #line:05f93f6
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Oh... #line:0b6df46
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Our hands are full of soap #line:04cc939
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Ah, I understand! #line:0eb61b6
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Just... Hey Will, don't stop being positive like that. Might be annoying sometimes, but I'm no longer leaving work all angry and annoyed so... #line:0235041
+Still I am not doing a friendship hug #line:0b7023a
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+A short one? #line:0e9d8b9
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+No! #line:09c0546
+[[CindyGoodbye]]
+===
+title: CindyTalkBadOutcome
+tags: 
+colorID: 0
+position: 741,843
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+I'm going. Ugh, now I'm all worked up. I'm going to throw that frustration at the guitar later #line:069c263
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Wait, don't break your guitar! #line:00257b3
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+No, no, am not going around breaking crap. I'll jam out with Kirbo at the Auditorium. #line:043caf1
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Can I-- #line:050e3e9
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Alone. Sorry Will, just not in the mood. I'll go pick up my paycheck tomorrow morning, I'll see you then I guess. #line:0c9faa8
+[[CindyGoodbye]]
+===
+title: CindyGoodbye
+tags: 
+colorID: 0
+position: 631,1094
+---
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Cindy: This is where we split. I'll see you tomorrow Will, alright? #line:0f377aa
+-> I'll be as early as always! #line:0be8edd
+-> Can't wait for another day tomorrow! #line:0472255
+Cindy: Haha! Well... I did tell you to stay positive. As silly as it sometimes is... have an evening. #line:0462642
+===
+title: Cindy.Start
+tags: 
+colorID: 0
+position: 619,-736
+---
+<<set $Pissiness to 0>>
+<<show Talker Will>>
+Ah, what an amazing day! Only a great conversation with a friend would make it better! #line:072b8a8
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Shame nobody's here #line:0fd2362
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Cindy, but you're right next to me! And you're my friend! #line:006eb52
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+I don't know, am I?  #line:0fe26a4
+Okay, don't make that face, now  I feel bad! I'm just teasing you Will. #line:0b44385
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+That's a relief! I already got your birthday gift and it'd be hard to find you if you're not my friend! #line:06c152f
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Will, my... my birthday is in seven months. #line:0b8d546
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+And I will always be ready early! #line:01af4a7
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+I'll be honest with ya, I think you're the only person I'll give a pass on that and not call creepy #line:027efba
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+Really!? #line:0dd402d
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+I'll think about it though. #line:0a7a54e
+<<show Talker Will>>
+<<hide Talkee Cindy>>
+That's mean! I'm just trying to brighten your day! Even if by a little bit, I know you have... less savory things to say about this job #line:03791a3
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+Ugh, tell me about it. #line:02d2bac
+[[How are you feeling then, Cindy?|CindyTalk1]] #line:0739608
+[[You can tell me about it! I'll gladly listen!|CindyTalk1]] #line:0039a8b
+===
+title: CindyTalk4Opt4
+tags: 
+colorID: 0
+position: 623,314
+---
+<<set $Pissiness to $Pissiness+1>>
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+That's disgusting, but fully in character. Mold makes me sick... #line:086d014
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+You can always clean it! #line:0c074f2
+<<show Talkee Cindy>>
+<<hide Talker Will>>
+I still think it's the landlord's job to order someone in. He always excuses it as "there is a person going around houses in your area" and if I don't get it cleaned it's my fault #line:08d01b4
+Just... I want to not go to the kitchen worried I'll open a shelf to see green #line:0a41f7b
+<<show Talker Will>>
+<<hide Talkee Cindy>> 
+I can help you out with this! #line:04c1bdc
+<<show Talkee Cindy>>
+<<hide Talker Will>> 
+I'd really appreciate it. But let's set the details after I pay rent and talk to landlord again. #line:0b14ab6
+[[And on that note, it's 6PM now|CindyTalk5]] #line:0d3562e
+===

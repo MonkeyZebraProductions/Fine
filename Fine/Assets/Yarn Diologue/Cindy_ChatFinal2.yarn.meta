@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: df83b1560e6e3ca45aef1877eda53579
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-GB
+  stringIDs:
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-0
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-1
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-2
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-3
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-4
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-5
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-6
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-7
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-8
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-9
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-10
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-11
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-12
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-13
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-14
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-15
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-16
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-17
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-18
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-19
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-20
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-21
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-22
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-23
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk1-24
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt1-25
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt1-26
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt1-27
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt1-28
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt1-29
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-30
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-31
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-32
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-33
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-34
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-35
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt2-36
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-37
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-38
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-39
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-40
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-41
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-42
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk2Opt3-43
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-44
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-45
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-46
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-47
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-48
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-49
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-50
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-51
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-52
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-53
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-54
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-55
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk3-56
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-57
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-58
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-59
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-60
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-61
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-62
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt1-63
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-64
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-65
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-66
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-67
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-68
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt2-69
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk5-70
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk5-71
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk5-72
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-73
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-74
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-75
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-76
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-77
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-78
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-79
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-80
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-81
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkGoodOutcome-82
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkBadOutcome-83
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkBadOutcome-84
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkBadOutcome-85
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkBadOutcome-86
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalkBadOutcome-87
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyGoodbye-88
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyGoodbye-89
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyGoodbye-90
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyGoodbye-91
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-92
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-93
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-94
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-95
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-96
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-97
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-98
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-99
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-100
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-101
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-102
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-103
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-104
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-105
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-Cindy.Start-106
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-107
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-108
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-109
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-110
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-111
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-112
+  - Cindy_Chat_Edit1 (4) (1) (8) (2)-CindyTalk4Opt4-113
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: df83b1560e6e3ca45aef1877eda53579, type: 3}
+  localizations: []
